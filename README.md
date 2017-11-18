@@ -1,2 +1,17 @@
 # AutismRobot
 Development of a robot for children with disorders of the autistic spectrum.
+
+
+Websites with useful information:
+
+-Speech Recognition:
+  https://www.bishoph.org/raspberry-pi-and-offline-speech-recognition/
+  https://pypi.python.org/pypi/SpeechRecognition
+  https://cmusphinx.github.io/wiki/
+  
+-Sensors:
+  https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr
+  
+  
+-Controlers:
+https://raspberrypi.stackexchange.com/questions/33723/how-to-achieve-low-power-consumption-on-raspberry-pi-via-software-and-hardware-c
