@@ -4,6 +4,9 @@ Development of a robot for children with disorders of the autistic spectrum.
 
 Websites with useful information:
 
+-Micro I2S:
+https://learn.adafruit.com/adafruit-i2s-mems-microphone-breakout/raspberry-pi-wiring-and-test
+
 -Speech Recognition:
   https://www.bishoph.org/raspberry-pi-and-offline-speech-recognition/
   https://pypi.python.org/pypi/SpeechRecognition
